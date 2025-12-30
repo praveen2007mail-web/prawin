@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bishop Heber College</title>
+</head>
+<body>
+
+<h1 style="text-align:center;">Bishop Heber College</h1>
+<h2 style="text-align:center;">Department of Computer Science</h2>
+
+<h2>Class Info</h2>
+<ul>
+    <li>Programme: B.Sc CS</li>
+    <li>Year: I Year</li>
+    <li>Section: B</li>
+</ul>
+
+<h2>Subjects Studied</h2>
+<ul>
+    <li>Programming in C</li>
+    <li>Computer Fundamentals</li>
+    <li>Discrete Mathematics</li>
+    <li>Digital Computer Organization</li>
+    <li>Environmental Studies</li>
+</ul>
+
+<h2>Classroom Activities</h2>
+<ul>
+    <li>Interactive Lectures</li>
+    <li>Group Discussion</li>
+    <li>Student Seminars</li>
+    <li>Quiz and Problem Solving Sessions</li>
+    <li>ICT Based Learning</li>
+</ul>
+
+<h2>Lab Activities</h2>
+<p>
+    Students actively participate in hands-on lab sessions to improve
+    their programming and problem-solving skills.
+</p>
+
+<h2>Student Seminar & Presentation</h2>
+<p>Students present seminars on emerging technologies such as:</p>
+<ul>
+    <li>Artificial Intelligence</li>
+    <li>Cyber Security</li>
+    <li>Cloud Computing</li>
+    <li>Internet of Things</li>
+</ul>
+
+<h2>Learning Resources</h2>
+<ul>
+    <li><a href="https://www.google.com">Click here</a></li>
+</ul>
+
+<h2>Faculty Interaction</h2>
+<p>
+    Faculty members guide students through monitoring academic progress
+    and project discussions.
+</p>
+
+<h2>Contact</h2>
+<a href="mailto:example@gmail.com">Send Mail</a>
+
+</body>
+</html>
